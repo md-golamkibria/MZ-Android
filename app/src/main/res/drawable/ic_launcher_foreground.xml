@@ -1,0 +1,8 @@
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:inset="18dp">
+    <bitmap
+        android:src="@drawable/mz_logo"
+        android:antialias="true"
+        android:filter="true"
+        android:gravity="center" />
+</inset>
